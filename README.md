@@ -11,7 +11,7 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
 
 ---
 
-[Télécharger mon CV](CV.pdf)
+[Télécharger mon CV]([CV.pdf](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link))
 
 ---
 
