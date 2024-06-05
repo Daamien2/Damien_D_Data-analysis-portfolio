@@ -20,6 +20,7 @@ Mon CV en [PDF](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU
 * **Tableau**
   - Rapport 2
 * [**Compétences techniques**](#techniques)
+* [**Certificats**](#certificates)
 * [**Formation**](#formation)
 * [**Expériences Professionnelles**](#experiences)
 ---
@@ -53,11 +54,16 @@ Dans cette section, je vais énumérer des projets d'analyse de données en déc
   - Analyse de données pour insights stratégiques
 
 ---
-<a id="formation"></a>
-## Formation
-
+<a id="certificates"></a>
+## Certificats
 - **Data Analyst Certificate - Google** (Juillet - Décembre 2023)
   - Compétences : Analyse des données, Python, SQL, R, Looker Studio
+  - Certificate in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
+- **IBM Data Analyst Certificate** (Janvier 2024 - Avril 2024)
+  - Certificate in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/IBM%20Data%20Analyst%20Certificate.pdf)
+
+<a id="formation"></a>
+## Formation
 - **Master 2 - Management Global (Parcours Magistère)** (2019-2020)
   - Université Paris Dauphine
 - **Master 1 en immersion au Canada** (2018-2019)
