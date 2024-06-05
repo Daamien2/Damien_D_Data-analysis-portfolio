@@ -4,14 +4,14 @@
 
 Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. Actuellement, je travaille chez Citeo en tant qu'analyste de données marketing. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
 
-[Télécharger mon CV](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link)
+Mon CV en [PDF](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link)
 
 ---
 ## Sommaire
 * [Portfolio Projects](#ptfprojects)
 * [**Python**](#python)
   - [Projet 1 Python](#python1)
-  - Projet 2 : focus sur ...
+  - [Projet 2 : focus sur ...](#python2)
 * **SQL**
   - Projet 4 : focus sur ...
   - Projet 3 : focus sur ...
@@ -19,10 +19,23 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
   - Rapport 1
 * **Tableau**
   - Rapport 2
+* [**Compétences techniques**](#techniques)
 * [**Formation**](#formation)
 * [**Expériences Professionnelles**](#experiences)
 ---
+<a id="ptfprojects"></a>
+## Portfolio Projects
+Dans cette section, je vais énumérer des projets d'analyse de données en décrivant brièvement la pile technologique utilisée pour résoudre les cas.
 
+<a id="python"></a>
+### Python
+
+<a id="python1"></a>
+#### Projet 1 : focus sur ... 
+
+...
+---
+<a id="techniques"></a>
 ## Compétences Techniques
 
 - **Langages de Programmation** :
@@ -40,18 +53,6 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
   - Analyse de données pour insights stratégiques
 
 ---
-<a id="ptfprojects"></a>
-## Portfolio Projects
-Dans cette section, je vais énumérer des projets d'analyse de données en décrivant brièvement la pile technologique utilisée pour résoudre les cas.
-
-<a id="python"></a>
-### Python
-
-<a id="python1"></a>
-#### Projet 1 : focus sur ... 
-
-...
-
 <a id="formation"></a>
 ## Formation
 
