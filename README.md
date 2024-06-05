@@ -6,7 +6,7 @@
 
 Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. Actuellement, je travaille chez Citeo en tant qu'analyste de données marketing. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
 
-[Télécharger mon CV](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link){:target="_blank"}
+[Télécharger mon CV](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link)
 
 ---
 
