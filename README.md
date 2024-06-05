@@ -9,33 +9,9 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
 
 ---
 ## Sommaire
-
-A venir
-
----
-
-## Compétences Techniques
-
-- **Langages de Programmation** :
-  - Python (pandas, matplotlib, seaborn)
-  - SQL (requêtes complexes, optimisation)
-  - Excel (tableaux croisés dynamiques, macros VBA)
-
-- **Data Visualization** :
-  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX)
-  - Looker Studio (rapports personnalisés, tableaux de bord)
-
-- **Outils et Techniques** :
-  - Collecte de données multi-sources
-  - Nettoyage et transformation de données
-  - Analyse de données pour insights stratégiques
-
----
-
-## Portfolio Projects
-
-* **Python**
-  - Projet 1 : focus sur ... [Projet 1 Python](#python1)
+* [Portfolio Projects](#ptfprojects)
+* [**Python**](#python)
+  - [Projet 1 Python](#python1)
   - Projet 2 : focus sur ...
 * **SQL**
   - Projet 4 : focus sur ...
@@ -44,51 +20,9 @@ A venir
   - Rapport 1
 * **Tableau**
   - Rapport 2
-
 ---
+
 ## Compétences Techniques
-
-- **Langages de Programmation** :
-  - Python (pandas, matplotlib, seaborn)
-  - SQL (requêtes complexes, optimisation)
-  - Excel (tableaux croisés dynamiques, macros VBA)
-
-- **Data Visualization** :
-  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX)
-  - Looker Studio (rapports personnalisés, tableaux de bord)
-
-- **Outils et Techniques** :
-  - Collecte de données multi-sources
-  - Nettoyage et transformation de données
-  - Analyse de données pour insights stratégiques## Compétences Techniques
-
-- **Langages de Programmation** :
-  - Python (pandas, matplotlib, seaborn)
-  - SQL (requêtes complexes, optimisation)
-  - Excel (tableaux croisés dynamiques, macros VBA)
-
-- **Data Visualization** :
-  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX)
-  - Looker Studio (rapports personnalisés, tableaux de bord)
-
-- **Outils et Techniques** :
-  - Collecte de données multi-sources
-  - Nettoyage et transformation de données
-  - Analyse de données pour insights stratégiques## Compétences Techniques
-
-- **Langages de Programmation** :
-  - Python (pandas, matplotlib, seaborn)
-  - SQL (requêtes complexes, optimisation)
-  - Excel (tableaux croisés dynamiques, macros VBA)
-
-- **Data Visualization** :
-  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX)
-  - Looker Studio (rapports personnalisés, tableaux de bord)
-
-- **Outils et Techniques** :
-  - Collecte de données multi-sources
-  - Nettoyage et transformation de données
-  - Analyse de données pour insights stratégiques## Compétences Techniques
 
 - **Langages de Programmation** :
   - Python (pandas, matplotlib, seaborn)
@@ -104,8 +38,16 @@ A venir
   - Nettoyage et transformation de données
   - Analyse de données pour insights stratégiques
 
-<a id="python1"></a>
+---
+<a id="ptfprojects"></a>
+## Portfolio Projects
+Dans cette section, je vais énumérer des projets d'analyse de données en décrivant brièvement la pile technologique utilisée pour résoudre les cas.
 
+<a id="python"></a>
+### Python
+
+<a id="python1"></a>
+#### Projet 1 : focus sur ... 
 
 
 ## Me Contacter
