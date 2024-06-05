@@ -1,15 +1,10 @@
 # Damien Delonglée
 
-## Data Analyst
-
----
-
+## Looking for a Data Analyst opportunity
 
 ---
 
 Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. Actuellement, je travaille chez Citeo en tant qu'analyste de données marketing. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
-
----
 
 [Télécharger mon CV](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link){:target="_blank"}
 
@@ -44,16 +39,6 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
 
 ## Me Contacter
 
-Si vous avez des questions ou souhaitez discuter d'opportunités, n'hésitez pas à me contacter via le formulaire ci-dessous ou directement par email à [damiendelongelee@gmail.com](mailto:damiendelongelee@gmail.com).
-
-<form>
-  <label for="name">Nom:</label>
-  <input type="text" id="name" name="name"><br><br>
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email"><br><br>
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
-  <input type="submit" value="Envoyer">
-</form>
+Si vous avez des questions ou souhaitez discuter d'opportunités, n'hésitez pas à me contacter directement par email à [damiendelongelee@gmail.com](mailto:damiendelongelee@gmail.com).
 
 Connectez-vous avec moi sur [LinkedIn](https://www.linkedin.com/in/damiendelonglee).
