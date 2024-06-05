@@ -13,15 +13,23 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
 
 [Télécharger mon CV](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link){:target="_blank"}
 
-<a href="https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link" target="_blank">Télécharger mon CV</a>
-
 ---
 
 ## Compétences Techniques
 
-- **Langages de Programmation** : Python, SQL, Excel Avancé
-- **Data Visualization** : Power BI (DAX inclus), Looker Studio
-- **Outils et Techniques** : Collecte, Nettoyage, Transformation et Analyse de Données
+- **Langages de Programmation** :
+  - Python (pandas, matplotlib, seaborn)
+  - SQL (requêtes complexes, optimisation)
+  - Excel Avancé (tableaux croisés dynamiques, macros VBA)
+
+- **Data Visualization** :
+  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX)
+  - Looker Studio (rapports personnalisés, tableaux de bord)
+
+- **Outils et Techniques** :
+  - Collecte de données multi-sources
+  - Nettoyage et transformation de données
+  - Analyse de données pour insights stratégiques
 
 ---
 
@@ -48,4 +56,4 @@ Si vous avez des questions ou souhaitez discuter d'opportunités, n'hésitez pas
   <input type="submit" value="Envoyer">
 </form>
 
-Connectez-vous avec moi sur [LinkedIn](https://www.linkedin.com/in/damiendelongelee).
+Connectez-vous avec moi sur [LinkedIn](https://www.linkedin.com/in/damiendelonglee).
