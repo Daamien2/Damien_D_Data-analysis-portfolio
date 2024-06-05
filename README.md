@@ -1,6 +1,5 @@
 # Damien Delonglée
 
-
 ## About
 
 Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. Actuellement, je travaille chez Citeo en tant qu'analyste de données marketing. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
@@ -20,6 +19,8 @@ Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je su
   - Rapport 1
 * **Tableau**
   - Rapport 2
+* [**Formation**](#formation)
+* [**Expériences Professionnelles**](#experiences)
 ---
 
 ## Compétences Techniques
@@ -49,6 +50,37 @@ Dans cette section, je vais énumérer des projets d'analyse de données en déc
 <a id="python1"></a>
 #### Projet 1 : focus sur ... 
 
+...
+
+<a id="formation"></a>
+## Formation
+
+- **Data Analyst Certificate - Google** (Juillet - Décembre 2023)
+  - Compétences : Analyse des données, Python, SQL, R, Looker Studio
+- **Master 2 - Management Global (Parcours Magistère)** (2019-2020)
+  - Université Paris Dauphine
+- **Master 1 en immersion au Canada** (2018-2019)
+  - Wilfrid Laurier University, Waterloo (Ontario), Canada
+- **Licence de Gestion** (2017-2018)
+  - Université Paris Dauphine
+- **Classe préparatoire ENS Cachan D2** (2015-2017)
+  - Lycée Victor & Hélène Basch, Rennes
+
+<a id="experiences"></a>
+## Expériences Professionnelles
+
+- **Citeo** (Depuis Mai 2023)
+  - Analyste de Données Marketing
+  - Analyse des comportements client, optimisation des flux de données, développement de rapports interactifs.
+- **Citeo** (Janvier 2021 - Mai 2023)
+  - Chargé de Projet Marketing Stratégique
+  - Production de contenu marketing, développement de stratégies innovantes.
+- **Amundi** (Août 2019 - Août 2020)
+  - Alternant - Chargé de Projet & Marketing
+  - Stratégie de marketing, coordination des équipes.
+- **Clear Channel** (Septembre 2017 - Juillet 2018)
+  - Alternant - Chargé de Projet & Marketing
+  - Production de documents marketing, analyse de communication.
 
 ## Me Contacter
 
