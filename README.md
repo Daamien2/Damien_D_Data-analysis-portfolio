@@ -32,9 +32,23 @@ Dans cette section, je vais énumérer des projets d'analyse de données en déc
 ### Python
 
 <a id="python1"></a>
-#### Projet 1 : focus sur ... 
+#### Projet 1 : Analyser les tendances de vente de 800 produits sur 52 semaines e pour identifier les produits les plus vendus, les périodes de vente les plus actives, et proposer des recommandations pour améliorer les ventes.
+Script : 
+Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
-...
+Objectifs
+- Importation et nettoyage des données
+- Analyse exploratoire des données (EDA)
+- Visualisation des données
+- Modélisation prédictive pour prévoir les ventes futures
+- Recommandations basées sur l'analyse
+
+Compétences : nettoyage de données, analyse de données, visualisation de données, modélisation de données
+
+Technologie : Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+Résultats : En utilisant les fonctions Python, .
+
 ---
 <a id="techniques"></a>
 ## Compétences Techniques
