@@ -33,7 +33,7 @@ Dans cette section, je vais énumérer des projets d'analyse de données en déc
 
 <a id="python1"></a>
 #### Projet 1 : Analyser les tendances de vente de 800 produits sur 52 semaines e pour identifier les produits les plus vendus, les périodes de vente les plus actives, et proposer des recommandations pour améliorer les ventes.
-Script : 
+Script : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
 Objectifs
