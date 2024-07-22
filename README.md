@@ -58,6 +58,13 @@ L'analyse détaillée des volumes de transactions journaliers, en plus des monta
 
 Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyses révèlent des tendances significativement différentes dans d'autres marchés, tels que l'Allemagne. Par exemple, tandis que le vendredi est une journée relativement faible au Royaume-Uni en termes de transactions, il constitue le deuxième jour le plus actif en Allemagne. Il est donc recommandé de développer des stratégies spécifiques pour chaque marché afin d'optimiser la performance et mieux répondre aux besoins locaux.
 
+### SQL
+<a id="sql1"></a>
+#### Projet : _____
+
+**Script** : [Lien du projet](https://gist.github.com/Daamien2/499646ec05d6b87c9dce1c4432e35b74)
+
+
 ---
 <a id="techniques"></a>
 ## Compétences Techniques
