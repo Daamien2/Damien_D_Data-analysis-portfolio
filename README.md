@@ -2,7 +2,7 @@
 
 ## About
 
-Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. Actuellement, je travaille chez Citeo en tant qu'analyste de données marketing. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
+Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
 
 Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHpP/view?usp=sharing)
 
@@ -24,8 +24,7 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 ---
 <a id="ptfprojects"></a>
 ## Portfolio Projects
-Dans cette section, je vais énumérer des projets d'analyse de données en décrivant brièvement la pile technologique utilisée pour résoudre les cas.
-
+Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en décrivant brièvement les compétences techniques utilisées pour résoudre les cas.
 
 ### Python
 <a id="python1"></a>
@@ -45,15 +44,18 @@ Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+wee
 
 **Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-**Quelques exemples de recommandations basées sur l'analyse de données effectuée : ** 
+**Quelques exemples de recommandations basées sur l'analyse de données effectuée :** 
 
 *Optimisation de la Planification du Personnel et des Stocks :*
+
 Pour maximiser les revenus, il est crucial d'adapter la planification du personnel et les niveaux de stock en fonction des variations d'affluence quotidienne. Nos données montrent que les jours de forte affluence sont le mardi et le jeudi, tandis que le dimanche représente une période de faible affluence. Il est recommandé d'ajuster les ressources et les stocks pour répondre à ces fluctuations, en mettant particulièrement l'accent sur une réduction des ressources en période de faible activité.
 
 *Analyse des Volumes de Transactions :*
+
 L'analyse détaillée des volumes de transactions journaliers, en plus des montants de chiffre d'affaires, est essentielle pour évaluer la charge opérationnelle et optimiser l'allocation du personnel. Les données indiquent que les périodes de grande activité, notamment le créneau de midi, sont cruciales et nécessitent une attention particulière pour assurer une gestion efficace des opérations.
 
 *Stratégies d'Intégration des Marchés Internationaux :*
+
 Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyses révèlent des tendances significativement différentes dans d'autres marchés, tels que l'Allemagne. Par exemple, tandis que le vendredi est une journée relativement faible au Royaume-Uni en termes de transactions, il constitue le deuxième jour le plus actif en Allemagne. Il est donc recommandé de développer des stratégies spécifiques pour chaque marché afin d'optimiser la performance et mieux répondre aux besoins locaux.
 
 ---
