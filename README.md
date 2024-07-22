@@ -42,7 +42,7 @@ Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+wee
 
 **Compétences** : nettoyage de données, analyse de données, visualisation de données, modélisation de données
 
-**Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib.
+**Technologies** : Python, Pandas, Seaborn, Matplotlib.
 
 **Quelques exemples de recommandations basées sur l'analyse de données effectuée :** 
 
@@ -60,7 +60,7 @@ Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyse
 
 ### SQL
 <a id="sql1"></a>
-#### Projet : _____
+#### Projet : Nettoyage de données
 
 **Script** : [Lien du projet](https://gist.github.com/Daamien2/499646ec05d6b87c9dce1c4432e35b74)
 
