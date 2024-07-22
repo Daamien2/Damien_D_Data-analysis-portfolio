@@ -4,7 +4,7 @@
 
 Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. Actuellement, je travaille chez Citeo en tant qu'analyste de données marketing. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
 
-Mon CV en [PDF](https://drive.google.com/file/d/11A-KRv9zHbmFjPMiW_NiaTIBjT7axmU9/view?usp=drive_link)
+Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHpP/view?usp=sharing)
 
 ---
 ## Sommaire
@@ -32,7 +32,7 @@ Dans cette section, je vais énumérer des projets d'analyse de données en déc
 ### Python
 
 <a id="python1"></a>
-#### Projet 1 : Analyser les tendances de vente de 800 produits sur 52 semaines e pour identifier les produits les plus vendus, les périodes de vente les plus actives, et proposer des recommandations pour améliorer les ventes.
+#### Projet 1 : Analyser les tendances de vente de 800 produits sur 52 semaines pour identifier les produits les plus vendus, les périodes de vente les plus actives, et proposer des recommandations pour améliorer les ventes.
 Script : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 
 Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
@@ -46,7 +46,7 @@ Objectifs
 
 Compétences : nettoyage de données, analyse de données, visualisation de données, modélisation de données
 
-Technologie : Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technologie : Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 Résultats : En utilisant les fonctions Python, .
 
@@ -93,7 +93,7 @@ Résultats : En utilisant les fonctions Python, .
 
 - **Citeo** (Depuis Mai 2023)
   - Analyste de Données Marketing
-  - Analyse des comportements client, optimisation des flux de données, développement de rapports interactifs.
+  - Analyse des comportements client, optimisation des flux de données, développement de tableaux de bords.
 - **Citeo** (Janvier 2021 - Mai 2023)
   - Chargé de Projet Marketing Stratégique
   - Production de contenu marketing, développement de stratégies innovantes.
