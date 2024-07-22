@@ -33,22 +33,31 @@ Dans cette section, je vais énumérer des projets d'analyse de données en déc
 
 <a id="python1"></a>
 #### Projet 1 : Analyser les tendances de vente de 800 produits sur 52 semaines pour identifier les produits les plus vendus, les périodes de vente les plus actives, et proposer des recommandations pour améliorer les ventes.
-Script : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
+
+**Script** : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 
 Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
-Objectifs
+**Objectifs**
 - Importation et nettoyage des données
 - Analyse exploratoire des données (EDA)
 - Visualisation des données
 - Modélisation prédictive pour prévoir les ventes futures
 - Recommandations basées sur l'analyse
 
-Compétences : nettoyage de données, analyse de données, visualisation de données, modélisation de données
+**Compétences** : nettoyage de données, analyse de données, visualisation de données, modélisation de données
 
-Technologie : Python, Pandas, Numpy, Seaborn, Matplotlib.
+**Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-Résultats : En utilisant les fonctions Python, .
+**Quelques exemples de recommandations basées sur l'analyse de données effectuée** : 
+*Optimisation de la Planification du Personnel et des Stocks :*
+Pour maximiser les revenus, il est crucial d'adapter la planification du personnel et les niveaux de stock en fonction des variations d'affluence quotidienne. Nos données montrent que les jours de forte affluence sont le mardi et le jeudi, tandis que le dimanche représente une période de faible affluence. Il est recommandé d'ajuster les ressources et les stocks pour répondre à ces fluctuations, en mettant particulièrement l'accent sur une réduction des ressources en période de faible activité.
+
+*Analyse des Volumes de Transactions :*
+L'analyse détaillée des volumes de transactions journaliers, en plus des montants de chiffre d'affaires, est essentielle pour évaluer la charge opérationnelle et optimiser l'allocation du personnel. Les données indiquent que les périodes de grande activité, notamment le créneau de midi, sont cruciales et nécessitent une attention particulière pour assurer une gestion efficace des opérations.
+
+*Stratégies d'Intégration des Marchés Internationaux :*
+Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyses révèlent des tendances significativement différentes dans d'autres marchés, tels que l'Allemagne. Par exemple, tandis que le vendredi est une journée relativement faible au Royaume-Uni en termes de transactions, il constitue le deuxième jour le plus actif en Allemagne. Il est donc recommandé de développer des stratégies spécifiques pour chaque marché afin d'optimiser la performance et mieux répondre aux besoins locaux.
 
 ---
 <a id="techniques"></a>
