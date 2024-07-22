@@ -9,12 +9,10 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 ---
 ## Sommaire
 * [Portfolio Projects](#ptfprojects)
-* [**Python**](#python)
-  - [Projet 1 Python](#python1)
-  - [Projet 2 : focus sur ...](#python2)
+* [**Python**]
+  - [Analyse des transactions/CA - Python](#python1)
 * **SQL**
-  - Projet 4 : focus sur ...
-  - Projet 3 : focus sur ...
+  - Projet : focus sur ...
 * **Power BI**
   - Rapport 1
 * **Tableau**
@@ -28,11 +26,10 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 ## Portfolio Projects
 Dans cette section, je vais énumérer des projets d'analyse de données en décrivant brièvement la pile technologique utilisée pour résoudre les cas.
 
-<a id="python"></a>
-### Python
 
+### Python
 <a id="python1"></a>
-#### Projet 1 : Analyser les tendances de vente de 800 produits sur 52 semaines pour identifier les produits les plus vendus, les périodes de vente les plus actives, et proposer des recommandations pour améliorer les ventes.
+#### Projet : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
 
 **Script** : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 
@@ -42,14 +39,14 @@ Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+wee
 - Importation et nettoyage des données
 - Analyse exploratoire des données (EDA)
 - Visualisation des données
-- Modélisation prédictive pour prévoir les ventes futures
 - Recommandations basées sur l'analyse
 
 **Compétences** : nettoyage de données, analyse de données, visualisation de données, modélisation de données
 
 **Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-**Quelques exemples de recommandations basées sur l'analyse de données effectuée** : 
+**Quelques exemples de recommandations basées sur l'analyse de données effectuée : ** 
+
 *Optimisation de la Planification du Personnel et des Stocks :*
 Pour maximiser les revenus, il est crucial d'adapter la planification du personnel et les niveaux de stock en fonction des variations d'affluence quotidienne. Nos données montrent que les jours de forte affluence sont le mardi et le jeudi, tandis que le dimanche représente une période de faible affluence. Il est recommandé d'ajuster les ressources et les stocks pour répondre à ces fluctuations, en mettant particulièrement l'accent sur une réduction des ressources en période de faible activité.
 
