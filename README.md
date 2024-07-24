@@ -58,6 +58,8 @@ Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyse
 
 
 
+
+
 <a id="python2"></a>
 #### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
 
