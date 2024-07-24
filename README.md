@@ -9,8 +9,8 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 ---
 ## Sommaire
 * [Portfolio Projects](#ptfprojects)
-* [**Python**]
-  - [Projet 1 - Analyse des transactions/CA - Python](#python1)
+* **Python**
+  - [Projet 1 - Analyse des transactions - Python](#python1)
   - [Projet 2 - Nettoyage de données - Python](#python2)
 * **SQL**
   - Projet : focus sur ...
@@ -27,9 +27,9 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 ## Portfolio Projects
 Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en décrivant brièvement les compétences techniques utilisées pour résoudre les cas.
 
-### Python
+## Python
 <a id="python1"></a>
-#### Projet : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
+#### Projet 1 : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
 
 **Script** : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 
@@ -60,7 +60,7 @@ L'analyse détaillée des volumes de transactions journaliers, en plus des monta
 Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyses révèlent des tendances significativement différentes dans d'autres marchés, tels que l'Allemagne. Par exemple, tandis que le vendredi est une journée relativement faible au Royaume-Uni en termes de transactions, il constitue le deuxième jour le plus actif en Allemagne. Il est donc recommandé de développer des stratégies spécifiques pour chaque marché afin d'optimiser la performance et mieux répondre aux besoins locaux.
 
 <a id="python2"></a>
-#### Projet : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
+#### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
 
 **Script** : [Lien du projet](https://gist.github.com/Daamien2/499646ec05d6b87c9dce1c4432e35b74)
 
@@ -71,7 +71,7 @@ Dataset : YTFRvideos.xlsx
 **Technologies** : Python, Pandas, requests
 
 
-### SQL
+## SQL
 <a id="sql1"></a>
 #### Projet : Nettoyage de données
 
