@@ -27,6 +27,8 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 ## Portfolio Projects
 Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en décrivant brièvement les compétences techniques utilisées pour résoudre les cas.
 
+---
+
 ## Python
 <a id="python1"></a>
 #### Projet 1 : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
@@ -58,7 +60,7 @@ Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyse
 
 
 
-
+---
 
 <a id="python2"></a>
 #### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
@@ -73,6 +75,7 @@ Dataset : YTFRvideos.xlsx
 
 
 
+---
 
 ## SQL
 <a id="sql1"></a>
