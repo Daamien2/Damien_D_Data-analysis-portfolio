@@ -79,10 +79,16 @@ Dataset : YTFRvideos.xlsx
 
 ## SQL
 <a id="sql1"></a>
-#### Projet : Nettoyage de données
+#### Projet : Nettoyage de données et analyse exploratoire
 
-**Script** : 
+**Script** : [Lien du projet](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Elections_2022_Circos.sql)
 
+Dataset : 
+  - resultats-par-niveau-cirlg-t1-france-entiere.csv
+  - circo_composition.csv
+Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
+
+Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
 
 ---
 <a id="techniques"></a>
