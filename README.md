@@ -13,7 +13,7 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
   - [Projet 1 - Analyse des transactions - Python](#python1)
   - [Projet 2 - Nettoyage de données - Python](#python2)
 * **SQL**
-  - Projet : focus sur ...
+  - [Projet - Analyse des données de votes - SQL](#sql1)
 * **Power BI**
   - Rapport 1
 * **Tableau**
