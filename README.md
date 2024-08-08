@@ -65,7 +65,7 @@ Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyse
 <a id="python2"></a>
 #### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
 
-**Script** : [Lien du projet](https://gist.github.com/Daamien2/499646ec05d6b87c9dce1c4432e35b74)
+**Script** : [Lien du projet]([https://gist.github.com/Daamien2/499646ec05d6b87c9dce1c4432e35b74](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
 
 Dataset : YTFRvideos.xlsx
 
@@ -86,6 +86,7 @@ Dataset : YTFRvideos.xlsx
 Dataset : 
   - resultats-par-niveau-cirlg-t1-france-entiere.csv
   - circo_composition.csv
+
 Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
 
 Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
