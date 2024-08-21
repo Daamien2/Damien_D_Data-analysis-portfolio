@@ -8,6 +8,7 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 
 ---
 ## Sommaire
+* [**Compétences techniques**](#techniques)
 * [Portfolio Projects](#ptfprojects)
 * **Python**
   - [Projet 1 - Analyse des transactions - Python](#python1)
@@ -18,78 +19,9 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
   - Rapport 1
 * **Tableau**
   - Rapport 2
-* [**Compétences techniques**](#techniques)
 * [**Certificats**](#certificates)
 * [**Formation**](#formation)
 * [**Expériences Professionnelles**](#experiences)
----
-<a id="ptfprojects"></a>
-## Portfolio Projects
-Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en décrivant brièvement les compétences techniques utilisées pour résoudre les cas.
-
----
-
-## Python
-<a id="python1"></a>
-#### Projet 1 : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
-
-**Script** : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
-
-Dataset : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
-
-**Objectifs**
-- Importation et nettoyage des données
-- Analyse exploratoire des données (EDA)
-- Visualisation des données
-- Recommandations basées sur l'analyse
-
-**Compétences** : nettoyage de données, analyse de données, visualisation de données, modélisation de données
-
-**Technologies** : Python, Pandas, Seaborn, Matplotlib.
-
-**Quelques exemples de recommandations basées sur l'analyse de données effectuée :** 
-
-*Optimisation de la Planification du Personnel et des Stocks :*
-Pour maximiser les revenus, il est crucial d'adapter la planification du personnel et les niveaux de stock en fonction des variations d'affluence quotidienne. Nos données montrent que les jours de forte affluence sont le mardi et le jeudi, tandis que le dimanche représente une période de faible affluence. Il est recommandé d'ajuster les ressources et les stocks pour répondre à ces fluctuations, en mettant particulièrement l'accent sur une réduction des ressources en période de faible activité.
-
-*Analyse des Volumes de Transactions :*
-L'analyse détaillée des volumes de transactions journaliers, en plus des montants de chiffre d'affaires, est essentielle pour évaluer la charge opérationnelle et optimiser l'allocation du personnel. Les données indiquent que les périodes de grande activité, notamment le créneau de midi, sont cruciales et nécessitent une attention particulière pour assurer une gestion efficace des opérations.
-
-*Stratégies d'Intégration des Marchés Internationaux :*
-Bien que la majorité des transactions se déroulent au Royaume-Uni, les analyses révèlent des tendances significativement différentes dans d'autres marchés, tels que l'Allemagne. Par exemple, tandis que le vendredi est une journée relativement faible au Royaume-Uni en termes de transactions, il constitue le deuxième jour le plus actif en Allemagne. Il est donc recommandé de développer des stratégies spécifiques pour chaque marché afin d'optimiser la performance et mieux répondre aux besoins locaux.
-
-
-
----
-
-<a id="python2"></a>
-#### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
-
-**Script** : [Lien du projet]([https://gist.github.com/Daamien2/499646ec05d6b87c9dce1c4432e35b74](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
-
-Dataset : YTFRvideos.xlsx
-
-**Compétences** : nettoyage de données
-
-**Technologies** : Python, Pandas, requests
-
-
-
----
-
-## SQL
-<a id="sql1"></a>
-#### Projet : Nettoyage de données et analyse exploratoire
-
-**Script** : [Lien du projet](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Elections_2022_Circos.sql)
-
-Dataset : 
-  - resultats-par-niveau-cirlg-t1-france-entiere.csv
-  - circo_composition.csv
-
-Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
-
-Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
 
 ---
 <a id="techniques"></a>
@@ -108,6 +40,64 @@ Analyse des données électorales des circonscriptions françaises de 2022, incl
   - Collecte de données multi-sources
   - Nettoyage et transformation de données
   - Analyse de données pour insights stratégiques
+
+---
+
+<a id="ptfprojects"></a>
+## Portfolio Projects
+Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en décrivant brièvement les compétences techniques utilisées pour résoudre les cas.
+
+---
+
+## Python
+<a id="python1"></a>
+#### Projet 1 : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
+
+**Script** : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
+
+**Dataset** : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
+
+**Compétences** : nettoyage de données, analyse exploratoire des données (EDA), visualisation de données, modélisation de données
+
+**Technologies** : Python, Pandas, Seaborn, Matplotlib.
+
+**Quelques exemples de recommandations basées sur l'analyse de données effectuée :** 
+
+- **Optimisation des ressources et des stocks** : Adapter la planification du personnel et les niveaux de stock en fonction des jours de forte (mardi, jeudi) et faible affluence (dimanche).
+- **Gestion des volumes de transactions** : Ajuster l’allocation des ressources pendant les périodes critiques, comme le créneau de midi, pour une gestion efficace.
+- **Stratégies spécifiques par marché** : Développer des approches adaptées aux marchés internationaux, en tenant compte des différences locales, notamment entre le Royaume-Uni et l'Allemagne.
+
+
+---
+
+<a id="python2"></a>
+#### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
+
+**Script** : [Lien du projet](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
+
+Dataset : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/blob/main/YTFRvideos.xlsx)
+
+**Compétences** : nettoyage de données
+
+**Technologies** : python, Pandas, requests
+
+
+
+---
+
+## SQL
+<a id="sql1"></a>
+#### Projet : Nettoyage de données et analyse exploratoire
+
+**Script** : [Lien du projet](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Elections_2022_Circos.sql)
+
+Dataset : 
+  - resultats-par-niveau-cirlg-t1-france-entiere.csv
+  - circo_composition.csv
+
+Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
+
+Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
 
 ---
 <a id="certificates"></a>
