@@ -2,9 +2,11 @@
 
 ## About
 
-Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données grâce à des projets variés dans différents secteurs. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
+Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
 
-Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHpP/view?usp=sharing)
+Il s'agit d'un espace où je peux présenter mes compétences, partager mes projets et suivre mes progrès dans les domaines de l'analyse de données et de la science des données.
+
+Mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
 ---
 ## Sommaire
@@ -15,8 +17,6 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
   - [Projet 2 - Nettoyage de données - Python](#python2)
 * **SQL**
   - [Projet - Analyse des données de votes - SQL](#sql1)
-* **Power BI**
-  - Rapport 1
 * **Tableau**
   - Rapport 2
 * [**Certificats**](#certificates)
@@ -33,8 +33,8 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
   - Excel (tableaux croisés dynamiques, macros VBA)
 
 - **Data Visualization** :
-  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX)
-  - Looker Studio (rapports personnalisés, tableaux de bord)
+  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX) : +++
+  - Tableau Looker Studio : +
 
 - **Outils et Techniques** :
   - Collecte de données multi-sources
@@ -45,7 +45,7 @@ Mon CV en [PDF](https://drive.google.com/file/d/1wWqibsE7rykk5v4wtnj2cMXITnY5FHp
 
 <a id="ptfprojects"></a>
 ## Portfolio Projects
-Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en décrivant brièvement les compétences techniques utilisées pour résoudre les cas.
+Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en listant brièvement les compétences techniques utilisées pour résoudre les cas.
 
 ---
 
@@ -71,17 +71,17 @@ Dans cette section, je vais vous présenter des projets d'analyse de données en
 ---
 
 <a id="python2"></a>
-#### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018
+#### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018 et analyse de corrélation
 
 **Script** : [Lien du projet](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
 
 Dataset : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/blob/main/YTFRvideos.xlsx)
 
-**Compétences** : nettoyage de données
+**Compétences** : nettoyage de données, analyse de données
 
-**Technologies** : python, Pandas, requests
+**Technologies** : python, Pandas, seaborn
 
-
+**Description** : Nettoyage d'une base de données référençant les vidéos les plus populaires sur YouTube en France pour les années 2017 et 2018. Ce travail a impliqué plusieurs opérations de nettoyage et de formatage des données afin de préparer celles-ci à une analyse approfondie. L'analyse a notamment exploré la corrélation entre le nombre de vues et la proportion de "dislikes".
 
 ---
 
@@ -97,7 +97,7 @@ Dataset :
 
 Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
 
-Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
+**Description** : Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
 
 ---
 <a id="certificates"></a>
