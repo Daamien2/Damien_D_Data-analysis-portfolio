@@ -17,8 +17,8 @@ Mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blo
   - [Projet 2 - Nettoyage de données - Python](#python2)
 * **SQL**
   - [Projet - Analyse des données de votes - SQL](#sql1)
-* **Tableau**
-  - Rapport 2
+* **Tableau / Looker Studio**
+  - [Projet en cours](#viz1)
 * [**Certificats**](#certificates)
 * [**Formation**](#formation)
 * [**Expériences Professionnelles**](#experiences)
@@ -57,6 +57,8 @@ Dans cette section, je vais vous présenter des projets d'analyse de données en
 
 **Dataset** : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
+**Description** : Ce script analyse un ensemble de données de ventes au détail provenant d'un fichier Excel. Il nettoie les données, explore les distributions des quantités et des prix, visualise les transactions par pays, et examine les tendances de chiffre d'affaires mensuel et quotidien. Les analyses incluent l'exploration des variations saisonnières et hebdomadaires des ventes ainsi que la normalisation des données pour mieux comprendre les tendances par pays.
+
 **Compétences** : nettoyage de données, analyse exploratoire des données (EDA), visualisation
 
 **Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook
@@ -72,13 +74,15 @@ Stratégies de marché spécifiques - Les différences observées entre les pays
 
 **Script** : [Lien du projet](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
 
-Dataset : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/blob/main/YTFRvideos.xlsx)
+**Dataset** : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/blob/main/YTFRvideos.xlsx)
+
+**Description** : Ce script analyse un ensemble de données sur des vidéos YouTube, comprenant des informations sur les vues, les likes, les dislikes, et les dates de publication. Il effectue un nettoyage approfondi des données, traite les caractères spéciaux, convertit les dates en format standard, et explore les relations entre les dates de publication, le nombre de vues et la proportion de dislikes. Les visualisations comprennent des graphiques sur la performance des vidéos en fonction des dates et une analyse de la proportion de dislikes par rapport aux vues.
 
 **Compétences** : nettoyage de données, analyse de données
 
-**Technologies** : python, Pandas, seaborn
+**Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib ticker, Jupyter Notebook
 
-**Description** : Nettoyage d'une base de données référençant les vidéos les plus populaires sur YouTube en France pour les années 2017 et 2018. Ce travail a impliqué plusieurs opérations de nettoyage et de formatage des données afin de préparer celles-ci à une analyse approfondie. L'analyse a notamment exploré la corrélation entre le nombre de vues et la proportion de "dislikes".
+**Insights Clés**
 
 ---
 
@@ -88,15 +92,24 @@ Dataset : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/
 
 **Script** : [Lien du projet](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Elections_2022_Circos.sql)
 
-Dataset : 
-  - resultats-par-niveau-cirlg-t1-france-entiere.csv
-  - circo_composition.csv
+**Dataset** : 
+  - [resultats-par-niveau-cirlg-t1-france-entiere.csv](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/resultats-par-niveau-cirlg-t1-france-entiere.csv)
+  - [circo_composition.csv](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/circo_composition.csv)
 
 Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
 
 **Description** : Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
 
 ---
+
+## Tableau / Looker Studio (projet en cours)
+<a id="viz1"></a>
+#### Projet : Rapport dynamique de visualisation de données
+
+[A VENIR]
+---
+
+
 <a id="certificates"></a>
 ## Certificats
 - **Data Analyst Certificate - Google** (Juillet - Décembre 2023)
