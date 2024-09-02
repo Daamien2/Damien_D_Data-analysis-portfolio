@@ -1,8 +1,10 @@
 -- Affichage de la structure des tables pour comprendre les types de données disponibles
+-- Table des circonscriptions
 SELECT column_name, data_type
 FROM `data-portfolio-425515.COVID.INFORMATION_SCHEMA.COLUMNS`
 WHERE table_name = 'Elections_2022_Circo_FR_ENT';
 
+-- Table des bureaux de vote
 SELECT column_name, data_type
 FROM `data-portfolio-425515.COVID.INFORMATION_SCHEMA.COLUMNS`
 WHERE table_name = 'Elections_2022_Bureaux_FR_ENT';
@@ -13,11 +15,11 @@ SELECT *
 FROM `data-portfolio-425515.COVID.Elections_2022_Circo_FR_ENT`
 LIMIT 10;
 
--- Comptage du nombre total de lignes dans la table, attendu : 577 circonscriptions en France
+-- Comptage du nombre total de lignes dans la table, attendu 577 circonscriptions en France
 SELECT COUNT(*) AS total_rows
 FROM `data-portfolio-425515.COVID.Elections_2022_Circo_FR_ENT`;
 
--- Détection des doublons en se basant sur les trois premières colonnes
+-- Détection des doublons en se basant sur les trois premières colonnes principales
 WITH NumberedRows AS (
     SELECT *, 
            ROW_NUMBER() OVER (PARTITION BY Code_du_departement, Libelle_du_departement, Code_de_la_circonscription ORDER BY (SELECT NULL)) AS rn
@@ -58,7 +60,7 @@ GROUP BY Libelle_du_departement
 ORDER BY moyenne_inscrits_par_circo DESC;
 
 -- Analyse de la répartition des inscrits par circonscription, observant les disparités
--- Calcul des statistiques de base sur les données de votes
+-- Analyse des statistiques de base sur les données de votes
 SELECT 
   MIN(Votants) AS min_votes,
   MAX(Votants) AS max_votes,
