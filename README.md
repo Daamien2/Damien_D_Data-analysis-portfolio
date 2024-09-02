@@ -57,16 +57,13 @@ Dans cette section, je vais vous présenter des projets d'analyse de données en
 
 **Dataset** : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
-**Compétences** : nettoyage de données, analyse exploratoire des données (EDA), visualisation de données, modélisation de données
+**Compétences** : nettoyage de données, analyse exploratoire des données (EDA), visualisation
 
-**Technologies** : Python, Pandas, Seaborn, Matplotlib.
+**Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook
 
-**Quelques exemples de recommandations basées sur l'analyse de données effectuée :** 
-
-- **Optimisation des ressources et des stocks** : Adapter la planification du personnel et les niveaux de stock en fonction des jours de forte (mardi, jeudi) et faible affluence (dimanche).
-- **Gestion des volumes de transactions** : Ajuster l’allocation des ressources pendant les périodes critiques, comme le créneau de midi, pour une gestion efficace.
-- **Stratégies spécifiques par marché** : Développer des approches adaptées aux marchés internationaux, en tenant compte des différences locales, notamment entre le Royaume-Uni et l'Allemagne.
-
+**Insights Clés**
+Optimisation des ressources - L'identification des pics d'activité journaliers et hebdomadaires permet de mieux planifier les ressources humaines, notamment en concentrant les efforts sur les moments critiques, comme le créneau du midi en semaine.
+Stratégies de marché spécifiques - Les différences observées entre les pays, notamment en ce qui concerne les jours les plus actifs, suggèrent qu'il pourrait être bénéfique de personnaliser les stratégies de vente et de marketing selon les spécificités de chaque marché.
 
 ---
 
