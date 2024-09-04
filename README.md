@@ -2,19 +2,15 @@
 
 ## About <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
 
-Welcome to my portfolio. My name is Damien Delonglée, and I specialise in data analysis and creating strategies based on quantifiable insights. With a wealth of experience in data analysis, marketing project management and data visualisation, I use these skills to solve complex problems and optimise performance.
+Welcome, my name is Damien Delonglée. Explore my portfolio of data analysis projects. You'll find concrete examples of my work in data processing, visualization and reporting. These projects aim to demonstrate my methodical approach and technical skills in the field of data analysis.
 
-This space allows me to showcase my skills, share my projects and track my progress in data analysis and data science.
-
-My CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
+You can also find my CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
 ## À propos  <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
 
-Bienvenue sur mon portfolio. Je m'appelle Damien Delonglée, spécialisé en analyse de données et création de stratégies basées sur des insights quantifiables. Fort d'une expérience en analyse de données, gestion de projets marketing et visualisation de données, j'utilise ces compétences pour résoudre des problèmes complexes et optimiser les performances.
+Bienvenue, je m'appelle Damien Delonglée. Explorez mon portfolio de projets d'analyse de données. Vous y trouverez des exemples concrets de travaux réalisés en traitement de données, création de visualisations et génération de rapports. Ces projets visent à démontrer mon approche méthodique et mes compétences techniques dans le domaine de l'analyse de données.
 
-Cet espace me permet de présenter mes compétences, partager mes projets et suivre mes avancées en analyse et science des données.
-
-Mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
+Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
 ---
 ## Summary
