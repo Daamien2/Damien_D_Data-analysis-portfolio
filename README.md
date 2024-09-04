@@ -6,7 +6,7 @@ Welcome to my portfolio. My name is Damien Delonglée, and I specialise in data 
 
 This space allows me to showcase my skills, share my projects and track my progress in data analysis and data science.
 
-## À propos 🇫🇷
+## À propos 🇫🇷 🇫🇷
 
 Bienvenue sur mon portfolio. Je m'appelle Damien Delonglée, spécialisé en analyse de données et création de stratégies basées sur des insights quantifiables. Fort d'une expérience en analyse de données, gestion de projets marketing et visualisation de données, j'utilise ces compétences pour résoudre des problèmes complexes et optimiser les performances.
 
