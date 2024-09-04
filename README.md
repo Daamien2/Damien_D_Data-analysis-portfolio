@@ -6,8 +6,9 @@ Welcome to my portfolio. My name is Damien Delonglée, and I specialise in data 
 
 This space allows me to showcase my skills, share my projects and track my progress in data analysis and data science.
 
-## À propos 🇫🇷	🇫🇷:
+My CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
+## À propos 🇫🇷
 
 Bienvenue sur mon portfolio. Je m'appelle Damien Delonglée, spécialisé en analyse de données et création de stratégies basées sur des insights quantifiables. Fort d'une expérience en analyse de données, gestion de projets marketing et visualisation de données, j'utilise ces compétences pour résoudre des problèmes complexes et optimiser les performances.
 
@@ -16,63 +17,77 @@ Cet espace me permet de présenter mes compétences, partager mes projets et sui
 Mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
 ---
-## Sommaire
-* [**Compétences techniques**](#techniques)
+## Summary
+* [Technical skills](#techniques)
 * [Portfolio Projects](#ptfprojects)
 * **Python**
-  - [Projet 1 - Analyse des transactions - Python](#python1)
-  - [Projet 2 - Nettoyage de données - Python](#python2)
+  - [Projet 1 - Transaction analysis - Python](#python1)
+  - [Projet 2 - Data cleansing - Python](#python2)
 * **SQL**
-  - [Projet - Analyse des données de votes - SQL](#sql1)
+  - [Projet - Voting data analysis - SQL](#sql1)
 * **Tableau / Looker Studio**
-  - [Projet en cours](#viz1)
-* [**Certificats**](#certificates)
-* [**Formation**](#formation)
-* [**Expériences Professionnelles**](#experiences)
+  - [In progress](#viz1)
+* [**Certificates**](#certificates)
+* [**Education**](#formation)
+* [**Work experience**](#experiences)
 
 ---
 <a id="techniques"></a>
-## Compétences Techniques
+## Technical skills
 
-- **Langages de Programmation** :
+- **Programming languages** :
   - Python (pandas, matplotlib, seaborn)
-  - SQL (requêtes complexes, optimisation)
-  - Excel (tableaux croisés dynamiques, macros VBA)
+  - SQL (complex queries, optimisation)
+  - Excel (pivot tables, VBA macros)
 
 - **Data Visualization** :
-  - Power BI (visualisations interactives, tableaux de bord dynamiques, fonctions DAX) : +++
-  - Tableau Looker Studio : +
+  - Power BI (interactive visualisations, dynamic dashboards, DAX functions): +++
+  - Tableau, Looker Studio : +
 
-- **Outils et Techniques** :
-  - Collecte de données multi-sources
-  - Nettoyage et transformation de données
-  - Analyse de données pour insights stratégiques
+- **Tools and Techniques** :
+  - Multi-source data collection
+  - Data cleansing and transformation
+  - Data analysis for strategic insights
 
 ---
 
 <a id="ptfprojects"></a>
 ## Portfolio Projects
-Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en listant brièvement les compétences techniques utilisées pour résoudre les cas.
+🇬🇧 - In this section, I'm going to introduce you to some data analysis projects, providing you with the work script, recommendations drawn from these analyses and briefly listing the technical skills used to solve the cases.
+
+🇫🇷 - Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en listant brièvement les compétences techniques utilisées pour résoudre les cas.
 
 ---
 
 ## Python
 <a id="python1"></a>
-#### Projet 1 : Optimisation des opérations et des stratégies de vente basée sur l'analyse des transactions hebdomadaires
+#### Projet 1 : Optimisation of operations and sales strategies based on analysis of weekly transactions / Optimisation des opérations et des stratégies de vente sur la base de l'analyse des transactions hebdomadaires
 
-**Script** : [Lien du projet](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
+**Script** : [Project link](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 
 **Dataset** : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
-**Description** : Ce script analyse un ensemble de données de ventes au détail provenant d'un fichier Excel. Il nettoie les données, explore les distributions des quantités et des prix, visualise les transactions par pays, et examine les tendances de chiffre d'affaires mensuel et quotidien. Les analyses incluent l'exploration des variations saisonnières et hebdomadaires des ventes ainsi que la normalisation des données pour mieux comprendre les tendances par pays.
+**Description** : 
 
-**Compétences** : nettoyage de données, analyse exploratoire des données (EDA), visualisation
+> 🇬🇧 - This script processes and analyzes retail sales data extracted from an Excel file. The workflow includes data cleaning, detailed exploration of quantity and price distributions, and visualization of transaction volumes across different countries. The analysis delves into monthly and daily sales trends, including the identification of seasonal and weekly sales patterns. Additionally, the data is normalized to gain deeper insights into country-specific trends.
+
+> 🇫🇷 - Ce script traite et analyse des données sur les ventes au détail extraites d'un fichier Excel. Le flux de travail comprend le nettoyage des données, l'exploration détaillée des distributions de quantités et de prix, et la visualisation des volumes de transactions dans différents pays. L'analyse se penche sur les tendances des ventes mensuelles et quotidiennes, y compris l'identification des modèles de vente saisonniers et hebdomadaires. En outre, les données sont normalisées afin d'obtenir des informations plus approfondies sur les tendances propres à chaque pays.
+
+**Skills**: data cleansing, exploratory data analysis (EDA), visualisation
 
 **Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook
 
-**Insights Clés**
-Optimisation des ressources - L'identification des pics d'activité journaliers et hebdomadaires permet de mieux planifier les ressources humaines, notamment en concentrant les efforts sur les moments critiques, comme le créneau du midi en semaine.
-Stratégies de marché spécifiques - Les différences observées entre les pays, notamment en ce qui concerne les jours les plus actifs, suggèrent qu'il pourrait être bénéfique de personnaliser les stratégies de vente et de marketing selon les spécificités de chaque marché.
+**Key insights**
+
+>🇬🇧
+>Resource Optimization: Identifying daily and weekly activity peaks allows for more effective human resource planning by focusing efforts on critical times, such as lunchtime during weekdays.
+Market-Specific Strategies: Observed differences between countries, particularly regarding the most active days, suggest that tailoring sales and marketing strategies to the specifics of each market could be beneficial.
+
+>🇫🇷
+>Optimisation des ressources : L'identification des pics d'activité quotidiens et hebdomadaires permet une planification plus efficace des ressources humaines en concentrant les efforts sur les moments critiques, comme l'heure du déjeuner en semaine.
+Stratégies spécifiques au marché : Les différences observées entre les pays, notamment en ce qui concerne les jours les plus actifs, suggèrent qu'il pourrait être bénéfique d'adapter les stratégies de vente et de marketing aux spécificités de chaque marché.
+
+![alt text](FR.png)
 
 ---
 
