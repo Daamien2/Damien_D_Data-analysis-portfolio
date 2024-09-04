@@ -1,6 +1,6 @@
 # Damien Delonglée - Data portfolio
 
-## About 🇬🇧
+## About <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
 
 Welcome to my portfolio. My name is Damien Delonglée, and I specialise in data analysis and creating strategies based on quantifiable insights. With a wealth of experience in data analysis, marketing project management and data visualisation, I use these skills to solve complex problems and optimise performance.
 
@@ -8,7 +8,7 @@ This space allows me to showcase my skills, share my projects and track my progr
 
 My CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
-## À propos 🇫🇷
+## À propos  <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
 
 Bienvenue sur mon portfolio. Je m'appelle Damien Delonglée, spécialisé en analyse de données et création de stratégies basées sur des insights quantifiables. Fort d'une expérience en analyse de données, gestion de projets marketing et visualisation de données, j'utilise ces compétences pour résoudre des problèmes complexes et optimiser les performances.
 
@@ -53,66 +53,89 @@ Mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blo
 
 <a id="ptfprojects"></a>
 ## Portfolio Projects
-🇬🇧 - In this section, I'm going to introduce you to some data analysis projects, providing you with the work script, recommendations drawn from these analyses and briefly listing the technical skills used to solve the cases.
+<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - In this section, I'm going to introduce you to some data analysis projects, providing you with the work script, recommendations drawn from these analyses and briefly listing the technical skills used to solve the cases.
 
-🇫🇷 - Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en listant brièvement les compétences techniques utilisées pour résoudre les cas.
+<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en listant brièvement les compétences techniques utilisées pour résoudre les cas.
 
 ---
 
 ## Python
 <a id="python1"></a>
-#### Projet 1 : Optimisation of operations and sales strategies based on analysis of weekly transactions / Optimisation des opérations et des stratégies de vente sur la base de l'analyse des transactions hebdomadaires
+### Projet 1
+**<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> Optimisation of operations and sales strategies based on analysis of weekly transactions**
+
+**<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> Optimisation des opérations et des stratégies de vente sur la base de l'analyse des transactions hebdomadaires**
 
 **Script** : [Project link](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
 
 **Dataset** : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
-**Description** : 
-
-> 🇬🇧 - This script processes and analyzes retail sales data extracted from an Excel file. The workflow includes data cleaning, detailed exploration of quantity and price distributions, and visualization of transaction volumes across different countries. The analysis delves into monthly and daily sales trends, including the identification of seasonal and weekly sales patterns. Additionally, the data is normalized to gain deeper insights into country-specific trends.
-
-> 🇫🇷 - Ce script traite et analyse des données sur les ventes au détail extraites d'un fichier Excel. Le flux de travail comprend le nettoyage des données, l'exploration détaillée des distributions de quantités et de prix, et la visualisation des volumes de transactions dans différents pays. L'analyse se penche sur les tendances des ventes mensuelles et quotidiennes, y compris l'identification des modèles de vente saisonniers et hebdomadaires. En outre, les données sont normalisées afin d'obtenir des informations plus approfondies sur les tendances propres à chaque pays.
-
-**Skills**: data cleansing, exploratory data analysis (EDA), visualisation
+**Skills**: 
+- Data cleansing
+- Exploratory data analysis (EDA)
+- Visualisation
 
 **Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook
 
+**Description** : 
+
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - This script processes and analyzes retail sales data extracted from an Excel file. The workflow includes data cleaning, detailed exploration of quantity and price distributions, and visualization of transaction volumes across different countries. The analysis delves into monthly and daily sales trends, including the identification of seasonal and weekly sales patterns. Additionally, the data is normalized to gain deeper insights into country-specific trends.
+
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Ce script traite et analyse des données sur les ventes au détail extraites d'un fichier Excel. Le flux de travail comprend le nettoyage des données, l'exploration détaillée des distributions de quantités et de prix, et la visualisation des volumes de transactions dans différents pays. L'analyse se penche sur les tendances des ventes mensuelles et quotidiennes, y compris l'identification des modèles de vente saisonniers et hebdomadaires. En outre, les données sont normalisées afin d'obtenir des informations plus approfondies sur les tendances propres à chaque pays.
+
 **Key insights**
 
->🇬🇧
->Resource Optimization: Identifying daily and weekly activity peaks allows for more effective human resource planning by focusing efforts on critical times, such as lunchtime during weekdays.
-Market-Specific Strategies: Observed differences between countries, particularly regarding the most active days, suggest that tailoring sales and marketing strategies to the specifics of each market could be beneficial.
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
+> - Resource Optimization: Identifying daily and weekly activity peaks allows for more effective human resource planning by focusing efforts on critical times, such as lunchtime during weekdays.
+> - Market-Specific Strategies: Observed differences between countries, particularly regarding the most active days, suggest that tailoring sales and marketing strategies to the specifics of each market could be beneficial.
 
->🇫🇷
->Optimisation des ressources : L'identification des pics d'activité quotidiens et hebdomadaires permet une planification plus efficace des ressources humaines en concentrant les efforts sur les moments critiques, comme l'heure du déjeuner en semaine.
-Stratégies spécifiques au marché : Les différences observées entre les pays, notamment en ce qui concerne les jours les plus actifs, suggèrent qu'il pourrait être bénéfique d'adapter les stratégies de vente et de marketing aux spécificités de chaque marché.
-
-<img src="FR.png" alt="alt text" width="400"/>
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
+> - Optimisation des ressources : L'identification des pics d'activité quotidiens et hebdomadaires permet une planification plus efficace des ressources humaines en concentrant les efforts sur les moments critiques, comme l'heure du déjeuner en semaine.
+> - Stratégies spécifiques au marché : Les différences observées entre les pays, notamment en ce qui concerne les jours les plus actifs, suggèrent qu'il pourrait être bénéfique d'adapter les stratégies de vente et de marketing aux spécificités de chaque marché.
 
 ---
 
 <a id="python2"></a>
-#### Projet 2 : Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018 et analyse de corrélation
+### Projet 2
+**<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> Cleaning a database of trending videos on Youtube in France in 2017-2018 and correlation analysis**
 
-**Script** : [Lien du projet](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
+**<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>  Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018 et analyse de corrélation**
+
+**Script** : [Project link](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
 
 **Dataset** : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/blob/main/YTFRvideos.xlsx)
 
-**Description** : Ce script analyse un ensemble de données sur des vidéos YouTube, comprenant des informations sur les vues, les likes, les dislikes, et les dates de publication. Il effectue un nettoyage approfondi des données, traite les caractères spéciaux, convertit les dates en format standard, et explore les relations entre les dates de publication, le nombre de vues et la proportion de dislikes. Les visualisations comprennent des graphiques sur la performance des vidéos en fonction des dates et une analyse de la proportion de dislikes par rapport aux vues.
-
-**Compétences** : nettoyage de données, analyse de données
+**Skills**: 
+- Data cleansing
+- Exploratory data analysis (EDA)
+- Correlation analysis
 
 **Technologies** : Python, Pandas, Numpy, Seaborn, Matplotlib ticker, Jupyter Notebook
 
-**Insights Clés**
+**Description** : 
+
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - This script performs a comprehensive analysis of a dataset comprising YouTube videos, with detailed metrics such as views, likes, dislikes, and publication dates. It begins with thorough data cleansing, addressing special characters, standardizing date formats, and exploring the interplay between publication dates, view counts, and dislike proportions. The analysis includes visualizations such as graphs illustrating video performance over time and a detailed examination of the ratio of dislikes to views.
+
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Ce script effectue une analyse complète d'un ensemble de données composé de vidéos YouTube, avec des métriques détaillées telles que les vues, les likes, les dislikes et les dates de publication. Il commence par un nettoyage approfondi des données, en traitant les caractères spéciaux, en normalisant les formats de date et en explorant l'interaction entre les dates de publication, les nombres de vues et les proportions d'aversion. L'analyse comprend des visualisations telles que des graphiques illustrant les performances des vidéos au fil du temps et un examen détaillé du rapport entre le nombre de dislikes et le nombre de vues.
+
+**Key insights**
+
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
+> - ?
+
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
+> - ?
 
 ---
 
 ## SQL
 <a id="sql1"></a>
-#### Projet : Nettoyage de données et analyse exploratoire
+### Projet : 
+**<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> Data cleansing and exploratory analysis of voting data from the 2022 French presidential elections**
 
-**Script** : [Lien du projet](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Elections_2022_Circos.sql)
+**<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> Nettoyage de données et analyse exploratoire des données de vote des élections présidentielles françaises de 2022**
+
+**Script** : [Project link](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Elections_2022_Circos.sql)
 
 **Dataset** : 
   - [resultats-par-niveau-burvot-t1-france-entiere.csv](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/resultats-par-niveau-burvot-t1-france-entiere.csv)
@@ -121,19 +144,25 @@ Stratégies spécifiques au marché : Les différences observées entre les pays
 
 Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
 
-**Description** : Analyse des données électorales des circonscriptions françaises de 2022, incluant la vérification de la structure des tables, la détection de doublons et de valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script effectue également une analyse détaillée par département et région en fusionnant les données des circonscriptions avec celles des régions, pour générer des rapports sur la répartition des inscrits et des votants, ainsi que les taux d'abstention et de votes blancs et nuls.
+**Description** : 
 
-**Insights clés**
-Les données montrent des disparités notables dans les taux d'abstention et de participation entre les circonscriptions, avec des variations significatives entre les régions métropolitaines et hors métropole.
-Certaines circonscriptions présentent des taux d'abstention et de votes blancs extrêmes, révélant des différences marquées dans l'engagement électoral à travers le pays.
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - This analysis covers electoral data for French districts for the year 2022. It includes checking the structure of the data tables, detecting duplicates and null values, and calculating key statistics such as the total number of registered voters, abstention rates, and blank and invalid vote rates. The script also performs in-depth analysis by department and region, merging constituency data with regional data to produce detailed reports on the distribution of registered voters and voters, as well as abstention rates and blank and invalid votes.
 
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Cette analyse porte sur les données électorales des circonscriptions françaises pour l'année 2022. Elle comprend la vérification de la structure des tables de données, la détection des doublons et des valeurs nulles, ainsi que le calcul de statistiques clés telles que le nombre total d'inscrits, les taux d'abstention, et les taux de votes blancs et nuls. Le script réalise également une analyse approfondie par département et région en fusionnant les données des circonscriptions avec celles des régions, afin de produire des rapports détaillés sur la répartition des inscrits et des votants, ainsi que sur les taux d'abstention, de votes blancs et nuls.
+
+**Key insights**
+
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - The data show significant disparities in abstention and turnout rates between constituencies, with significant variations between metropolitan and non-metropolitan regions. Some constituencies show extreme rates of abstention and blank votes, revealing marked differences in electoral engagement across the country.
+
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Les données montrent des disparités notables dans les taux d'abstention et de participation entre les circonscriptions, avec des variations significatives entre les régions métropolitaines et hors métropole. Certaines circonscriptions présentent des taux d'abstention et de votes blancs extrêmes, révélant des différences marquées dans l'engagement électoral à travers le pays.
+> 
 ---
 
-## Tableau / Looker Studio (projet en cours)
+## Data visualisation (project in progress)
 <a id="viz1"></a>
-#### Projet : Rapport dynamique de visualisation de données
+#### Project : Dynamic data visualisation report
 
-[A VENIR]
+[Ongoing]
 ---
 
 
