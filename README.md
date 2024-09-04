@@ -1,10 +1,16 @@
-# Damien Delonglée
+# Damien Delonglée - Data portfolio
 
-## About
+## About 🇬🇧
 
-Bonjour et bienvenue sur mon portfolio ! Je m'appelle Damien Delonglée et je suis passionné par l'analyse des données et la création de stratégies basées sur des insights quantifiables. J'ai acquis une solide expérience en analyse de données, gestion de projets marketing et visualisation de données. Explorez mes projets pour découvrir comment j'utilise les données pour résoudre des problèmes complexes et améliorer les performances.
+Welcome to my portfolio. My name is Damien Delonglée, and I specialise in data analysis and creating strategies based on quantifiable insights. With a wealth of experience in data analysis, marketing project management and data visualisation, I use these skills to solve complex problems and optimise performance.
 
-Il s'agit d'un espace où je peux présenter mes compétences, partager mes projets et suivre mes progrès dans les domaines de l'analyse de données et de la science des données.
+This space allows me to showcase my skills, share my projects and track my progress in data analysis and data science.
+
+## À propos 🇫🇷
+
+Bienvenue sur mon portfolio. Je m'appelle Damien Delonglée, spécialisé en analyse de données et création de stratégies basées sur des insights quantifiables. Fort d'une expérience en analyse de données, gestion de projets marketing et visualisation de données, j'utilise ces compétences pour résoudre des problèmes complexes et optimiser les performances.
+
+Cet espace me permet de présenter mes compétences, partager mes projets et suivre mes avancées en analyse et science des données.
 
 Mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV%20Damien%20Delongl%C3%A9e%20(1).pdf)
 
