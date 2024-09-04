@@ -208,7 +208,7 @@ Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/
 ---
 
 <a id="experiences"></a>
-## Work experience <img src="GB" alt="GB" style="height: 15px; width: auto;"/>
+## Work experience <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
 - **Citeo** (Since May 2023) - Marketing Data Analyst
   - Analyzed customer behavior, optimized data flows, and created PowerBI dashboards for better insights and decision-making.
 - **Citeo** (January 2021 - May 2023) - Marketing Project Manager
