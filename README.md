@@ -87,7 +87,7 @@ Market-Specific Strategies: Observed differences between countries, particularly
 >Optimisation des ressources : L'identification des pics d'activité quotidiens et hebdomadaires permet une planification plus efficace des ressources humaines en concentrant les efforts sur les moments critiques, comme l'heure du déjeuner en semaine.
 Stratégies spécifiques au marché : Les différences observées entre les pays, notamment en ce qui concerne les jours les plus actifs, suggèrent qu'il pourrait être bénéfique d'adapter les stratégies de vente et de marketing aux spécificités de chaque marché.
 
-![alt text](FR.png)
+<img src="FR.png" alt="alt text" width="400"/>
 
 ---
 
