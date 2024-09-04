@@ -162,47 +162,78 @@ Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/
 <a id="viz1"></a>
 #### Project : Dynamic data visualisation report
 
-[Ongoing]
 ---
 
 
 <a id="certificates"></a>
-## Certificats
-- **Data Analyst Certificate - Google** (Juillet - Décembre 2023)
-  - Compétences : Analyse des données, Python, SQL, R, Looker Studio
+## Certificates <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
+- **Data Analyst Certificate - Google** (July - December 2023)
+  - Skills : Data analysis, Python, SQL, R, Looker Studio
   - Certificate in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
-- **IBM Data Analyst Certificate** (Janvier 2024 - Avril 2024)
+- **IBM Data Analyst Certificate** (January 2024 - April 2024)
   - Certificate in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/IBM%20Data%20Analyst%20Certificate.pdf)
 
+## Certificats <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
+- **Data Analyst Certificate - Google** (July - December 2023)
+  - Compétences : Analyse de données, Python, SQL, R, Looker Studio
+  - Certificat en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/Google%20Data%20Analyst%20Certificate.pdf)
+- **IBM Data Analyst Certificate** (January 2024 - April 2024)
+  - Certificat en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/IBM%20Data%20Analyst%20Certificate.pdf)
+
+---
+
 <a id="formation"></a>
-## Formation
+## Education <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
+- **Master’s Degree in Global Management (2019-2020)**
+  - *Université Paris-Dauphine, Paris*
+  - Marketing, Business analytics, Project management, Communication, Accounting, CSR
+- **Master’s Degree Year 1 with exchange in Canada (2018-2019)**
+  - *Wilfrid Laurier University, Waterloo (Ontario), Canada*
+  - Project management, Strategic analysis, Data analysis, Marketing (B2B, Service, etc.)
+- **Bachelor’s Degree in Management (2017-2018)**
+  - *Université Paris-Dauphine, Paris*
+- **Preparatory Class for ENS Cachan D2 (2015-2017)**
+  - *Lycée Victor & Hélène Basch, Rennes*
+  - Economics & Management
+
+## Formation <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
 - **Master 2 - Management Global (Parcours Magistère)** (2019-2020)
-  - Université Paris Dauphine
+  - *Université Paris Dauphine*
+  - Marketing, Business analytics, Gestion de Projet, Communication, Comptabilité, RSE
 - **Master 1 en immersion au Canada** (2018-2019)
-  - Wilfrid Laurier University, Waterloo (Ontario), Canada
-- **Licence de Gestion** (2017-2018)
-  - Université Paris Dauphine
+  - *Wilfrid Laurier University, Waterloo (Ontario), Canada*
+  - Gestion de projet, Analyse stratégique, Analyse de données, Marketing (B2B, Service, etc.)
+- **Licence de Gestion** (Parcours Magistère) (2017-2018)
+  - *Université Paris Dauphine*
 - **Classe préparatoire ENS Cachan D2** (2015-2017)
-  - Lycée Victor & Hélène Basch, Rennes
+  - *Lycée Victor & Hélène Basch, Rennes*
+  - Economie & Gestion
+
+---
 
 <a id="experiences"></a>
-## Expériences Professionnelles
+## Work experience <img src="GB" alt="GB" style="height: 15px; width: auto;"/>
+- **Citeo** (Since May 2023) - Marketing Data Analyst
+  - Analyzed customer behavior, optimized data flows, and created PowerBI dashboards for better insights and decision-making.
+- **Citeo** (January 2021 - May 2023) - Marketing Project Manager
+  - Production of marketing content, development of innovative strategies.
+- **Amundi** (August 2019 - August 2020) - Part-time student as a Project & Marketing Manager
+  - Marketing strategy, team coordination.
+- **Clear Channel** (September 2017 - July 2018) - Part-time student as a Project & Marketing Manager
+  - Production of marketing contents
 
-- **Citeo** (Depuis Mai 2023)
-  - Analyste de Données Marketing
-  - Analyse des comportements client, optimisation des flux de données, développement de tableaux de bords.
-- **Citeo** (Janvier 2021 - Mai 2023)
-  - Chargé de Projet Marketing Stratégique
+## Expériences Professionnelles <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
+- **Citeo** (Depuis Mai 2023) - Analyste de Données Marketing
+  - Analyse du comportement des clients, optimisation des flux de données et création de tableaux de bord PowerBI pour une meilleure compréhension et prise de décision.
+- **Citeo** (Janvier 2021 - Mai 2023) - Chargé de Projet Marketing Stratégique
   - Production de contenu marketing, développement de stratégies innovantes.
-- **Amundi** (Août 2019 - Août 2020)
-  - Alternant - Chargé de Projet & Marketing
+- **Amundi** (Août 2019 - Août 2020) - Alternant Chargé de Projet & Marketing
   - Stratégie de marketing, coordination des équipes.
-- **Clear Channel** (Septembre 2017 - Juillet 2018)
-  - Alternant - Chargé de Projet & Marketing
+- **Clear Channel** (Septembre 2017 - Juillet 2018) - Alternant Chargé de Projet & Marketing
   - Production de documents marketing, analyse de communication.
 
-## Me Contacter
+## Contact
 
-Si vous avez des questions ou souhaitez discuter d'opportunités, n'hésitez pas à me contacter directement par email à [damiendelongelee@gmail.com](mailto:damiendelongelee@gmail.com).
+Si vous avez des questions ou souhaitez discuter d'opportunités, n'hésitez pas à me contacter directement par email à [damiendelonglee@gmail.com](mailto:damiendelonglee@gmail.com).
 
 Connectez-vous avec moi sur [LinkedIn](https://www.linkedin.com/in/damiendelonglee).
