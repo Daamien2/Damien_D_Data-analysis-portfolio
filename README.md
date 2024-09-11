@@ -17,8 +17,9 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 * [Technical skills](#techniques)
 * [Portfolio Projects](#ptfprojects)
 * **Python**
-  - [Projet 1 - Transaction analysis - Python](#python1)
-  - [Projet 2 - Data cleansing - Python](#python2)
+  - [Projet 1 - Analysis of the Paris self-service bicycle hire service - Python](#python0)
+  - [Projet 2 - Transaction analysis - Python](#python1)
+  - [Projet 3 - Data cleansing - Python](#python2)
 * **SQL**
   - [Projet - Voting data analysis - SQL](#sql1)
 * **Tableau / Looker Studio**
@@ -56,8 +57,45 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 ---
 
 ## Python
-<a id="python1"></a>
+<a id="python0"></a>
 ### Projet 1
+**<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> Analysis and live mapping of Paris' self-service bicycle hire service**
+
+**<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> Analyse et cartographie en direct du service de vélo en libre-service de Paris**
+
+**Script** : [Project link](https://gist.github.com/Daamien2/19265f7a4865e7e488ec8c87a57dbbfa)
+
+**Dataset** : Velib open data (https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole)
+
+**Skills**: 
+- Data cleansing
+- Exploratory data analysis
+- Data Mapping and Visualization
+
+**Technologies** : Python, folium, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook
+
+**Description** : 
+
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - This script processes and analyses data relating to the ‘Vélib’’ self-service bicycle service in Paris. The open-source data available provides real-time information on all 1,500 stations in the network. This analysis not only makes it possible to monitor the overall performance of the service as part of quality control, but also to view the status of the stations live on a map in order to identify any points of congestion in the network.
+
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Ce script traite et analyse les données relatives au service de vélos en libre-service "Vélib'" à Paris. Les données open-source disponibles fournissent des informations en temps réel sur l'ensemble des 1500 stations du réseau. Cette analyse permet non seulement de suivre la performance globale du service dans le cadre d'un suivi qualité, mais également de visualiser en direct, sur une carte, l'état des stations afin d'identifier les points de congestion du réseau.
+
+**Key insights**
+
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
+> Bicycle rebalancing: It is crucial to optimise the transfer of bicycles between overloaded and under-used stations. This challenge, which is common to all bike-sharing services, is influenced by the movement of users within the city, such as between residential and business areas.
+> Analysis of low-use areas: The reasons for low use of the service in certain areas, particularly on the outskirts, need to be explored. Factors to consider could include the quality of cycle paths, the accessibility of stations, or other influential elements.
+> Integration with the transport network: Further consideration of the integration of the cycle service with the rest of the urban transport network could provide opportunities for improvement, increasing the convenience and efficiency of the service for all users.
+
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
+> Rééquilibrage des vélos : Il est crucial d'optimiser le transfert de vélos entre les stations surchargées et celles sous-utilisées. Ce défi, commun aux services de vélos partagés, est influencé par les mouvements des usagers au sein de la ville, tels que les déplacements entre zones résidentielles et zones d'activité.
+> Analyse des zones peu fréquentées : Il convient d'explorer les raisons de la faible utilisation du service dans certaines zones, particulièrement en périphérie. Les facteurs à considérer pourraient inclure la qualité des pistes cyclables, l'accessibilité des stations, ou d'autres éléments influents.
+> Intégration avec le réseau de transport : Une réflexion approfondie sur l'intégration du service de vélos avec le reste du réseau de transport urbain pourrait offrir des opportunités d'amélioration, augmentant ainsi la commodité et l'efficacité du service pour tous les usagers.
+
+---
+
+<a id="python1"></a>
+### Projet 2
 **<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> Optimisation of operations and sales strategies based on analysis of weekly transactions**
 
 **<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> Optimisation des opérations et des stratégies de vente sur la base de l'analyse des transactions hebdomadaires**
@@ -92,7 +130,7 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 ---
 
 <a id="python2"></a>
-### Projet 2
+### Projet 3
 **<img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> Cleaning a database of trending videos on Youtube in France in 2017-2018 and correlation analysis**
 
 **<img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>  Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018 et analyse de corrélation**
