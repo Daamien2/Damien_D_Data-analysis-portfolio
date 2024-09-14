@@ -71,26 +71,25 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 - Data cleansing
 - Exploratory data analysis
 - Data Mapping and Visualization
-
-**Technologies** : Python, folium, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook
+- Data extraction and process automation via Google Apps Script.
+  
+**Technologies** : Python, folium, Pandas, Numpy, Seaborn, Matplotlib, Jupyter Notebook, GeoJson
 
 **Description** : 
 
-> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - This script processes and analyses data relating to the ‘Vélib’’ self-service bicycle service in Paris. The open-source data available provides real-time information on all 1,500 stations in the network. This analysis not only makes it possible to monitor the overall performance of the service as part of quality control, but also to view the status of the stations live on a map in order to identify any points of congestion in the network.
+> <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/> - This script processes and analyses data from the ‘Vélib’ self-service bicycle service in Paris. The real-time open-source data, covering the network's 1,500 stations, enables precise monitoring of service performance as part of an ongoing quality assessment. The analysis also provides an interactive map displaying the status of stations, making it easier to identify areas of congestion. To deepen the analysis, a Google script was deployed to automate the extraction of data over 24 hours, creating a data history. This information was then used to analyse the flow of bicycles at peak times, morning and evening, in order to identify trends in station use.
 
-> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Ce script traite et analyse les données relatives au service de vélos en libre-service "Vélib'" à Paris. Les données open-source disponibles fournissent des informations en temps réel sur l'ensemble des 1500 stations du réseau. Cette analyse permet non seulement de suivre la performance globale du service dans le cadre d'un suivi qualité, mais également de visualiser en direct, sur une carte, l'état des stations afin d'identifier les points de congestion du réseau.
+> <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/> - Ce script traite et analyse les données du service de vélos en libre-service 'Vélib'' à Paris. Les données open-source en temps réel, couvrant les 1500 stations du réseau, permettent de suivre précisément les performances du service dans le cadre d'une évaluation continue de la qualité. L'analyse permet également une visualisation cartographique interactive de l'état des stations, facilitant l'identification des zones de congestion. Pour approfondir l'analyse, un script Google a été déployé pour automatiser l'extraction des données sur 24 heures, créant ainsi un historique des données. Ces informations ont ensuite été exploitées pour analyser les flux de vélos aux heures de pointe, matin et soir, afin d'identifier les tendances d'utilisation des stations.
 
 **Key insights**
 
 > <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
-> Bicycle rebalancing: It is crucial to optimise the transfer of bicycles between overloaded and under-used stations. This challenge, which is common to all bike-sharing services, is influenced by the movement of users within the city, such as between residential and business areas.
-> Analysis of low-use areas: The reasons for low use of the service in certain areas, particularly on the outskirts, need to be explored. Factors to consider could include the quality of cycle paths, the accessibility of stations, or other influential elements.
-> Integration with the transport network: Further consideration of the integration of the cycle service with the rest of the urban transport network could provide opportunities for improvement, increasing the convenience and efficiency of the service for all users.
+> Optimising the balance of bikes between overloaded and underused stations is a key challenge for shared bike services. This challenge is directly influenced by user travel flows, particularly between residential and business areas. An analysis of cycle flows at peak times shows that Paris can be divided into two main zones: residential areas, mainly on the outskirts, and work areas, more concentrated in the centre. This data can be used to set up regulatory processes to improve the distribution of bicycles.
+> Analysis of low-use areas: The reasons for low use of the service in certain areas, particularly on the outskirts, should be explored. Factors to consider could include the quality of cycle paths, the accessibility of stations, or other influential elements.
 
 > <img src="FR.png" alt="FR" style="height: 15px; width: auto;"/>
-> Rééquilibrage des vélos : Il est crucial d'optimiser le transfert de vélos entre les stations surchargées et celles sous-utilisées. Ce défi, commun aux services de vélos partagés, est influencé par les mouvements des usagers au sein de la ville, tels que les déplacements entre zones résidentielles et zones d'activité.
+> L'optimisation du rééquilibrage des vélos entre les stations surchargées et celles sous-utilisées est un enjeu central pour les services de vélos partagés. Ce défi est directement influencé par les flux de déplacements des usagers, notamment entre les zones résidentielles et les zones d'activité. L'analyse des flux de vélos aux heures de pointe permet de diviser Paris en deux grandes zones : les zones résidentielles, majoritairement en périphérie, et les zones de travail, plus concentrées au centre. Ces données peuvent être exploitées pour mettre en place des processus de régulation afin d'améliorer la répartition des vélos.
 > Analyse des zones peu fréquentées : Il convient d'explorer les raisons de la faible utilisation du service dans certaines zones, particulièrement en périphérie. Les facteurs à considérer pourraient inclure la qualité des pistes cyclables, l'accessibilité des stations, ou d'autres éléments influents.
-> Intégration avec le réseau de transport : Une réflexion approfondie sur l'intégration du service de vélos avec le reste du réseau de transport urbain pourrait offrir des opportunités d'amélioration, augmentant ainsi la commodité et l'efficacité du service pour tous les usagers.
 
 ---
 
