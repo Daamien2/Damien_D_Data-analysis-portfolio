@@ -1,6 +1,6 @@
 # Damien Delonglée - Data portfolio
 
-## About <img src="GB.png" alt="GB" style="height: 15px; width: auto;"/>
+## About <img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/>
 
 Welcome, my name is Damien Delonglée. Explore my portfolio of data analysis projects. You'll find concrete examples of my work in data processing, visualization and reporting. These projects aim to demonstrate my methodical approach and technical skills in the field of data analysis.
 
