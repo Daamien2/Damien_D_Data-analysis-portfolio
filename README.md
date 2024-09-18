@@ -99,7 +99,7 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 **<img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/> Optimisation des opérations et des stratégies de vente sur la base de l'analyse des transactions hebdomadaires**
 
-**Script** : [Project link](https://gist.github.com/Daamien2/f9737d7d04cf27bb5386378b6f90a7c6)
+**Script** : [Project link](https://gist.github.com/Daamien2/2a4a2ddd80990b2e340b6362701da251)
 
 **Dataset** : https://archive.ics.uci.edu/dataset/396/sales+transactions+dataset+weekly
 
@@ -134,7 +134,7 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 **<img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/>  Nettoyage d'une base de données de vidéos tendances sur Youtube en France en 2017-2018 et analyse de corrélation**
 
-**Script** : [Project link](https://gist.github.com/Daamien2/306513dc994ea779871e8a20b4f9199c)
+**Script** : [Project link](https://gist.github.com/Daamien2/598d4ef785e149aee59bd2dcf027855a)
 
 **Dataset** : [YTFRvideos.xlsx](https://github.com/Daamien2/Stockage-data-portfolio/blob/main/YTFRvideos.xlsx)
 
