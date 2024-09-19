@@ -1,14 +1,14 @@
-# Damien Delonglée - Data portfolio
+# Data portfolio - Damien Delonglée
 
 ## About <img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/>
 
-Welcome, my name is Damien Delonglée. Explore my portfolio of data analysis projects. You'll find concrete examples of my work in data processing, visualization and reporting. These projects aim to demonstrate my methodical approach and technical skills in the field of data analysis.
+Welcome, my name is Damien Delonglée. This data portfolio presents a series of data analysis projects using Python and/or SQL, illustrating skills in data extraction, cleansing and processing. Each project demonstrates the use of different techniques to manipulate complex datasets and extract actionable insights.
 
 You can also find my CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV/CV_Damien_Delonglee_UK.pdf)
 
 ## À propos  <img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/>
 
-Bienvenue, je m'appelle Damien Delonglée. Explorez mon portfolio de projets d'analyse de données. Vous y trouverez des exemples concrets de travaux réalisés en traitement de données, création de visualisations et génération de rapports. Ces projets visent à démontrer mon approche méthodique et mes compétences techniques dans le domaine de l'analyse de données.
+Bienvenue, je m'appelle Damien Delonglée. Ce data portfolio présente une série de projets d’analyse de données réalisés avec Python et/ou SQL, illustrant des compétences en extraction, nettoyage et traitement de données. Chaque projet met en avant l'utilisation de diverses techniques pour manipuler des ensembles de données complexes et en extraire des insights exploitables.
 
 Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV/CV_Damien_Delongl%C3%A9e_FR.pdf)
 
@@ -154,10 +154,10 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 **Key insights**
 
 > <img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/>
-> - ?
+> - After a complete clean-up of this database, the analysis showed, for example, a significant correlation between the number of views of a video and the number of comments. This result is obviously very consistent, as a larger audience is generally associated with a higher number of comments. The next stage in this analysis will involve examining the correlation between video titles and the number of views. This will enable us to identify whether certain catchy words or phrases have a greater influence on the number of views, so that we can use this as a lever to increase the visibility of a video.
 
 > <img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/>
-> - ?
+> - Après un nettoyage complet de cette base de données, l'analyse a par exemple démontré une corrélation significative entre le nombre de vues d'une vidéo et le nombre de commentaires. Ce résultat est évidemment très cohérent, car une plus grande audience est généralement associée à un nombre plus élevé de commentaires. La prochaine étape de cette analyse va consister à examiner la corrélation entre les titres des vidéos et leur nombre de vues. Cette démarche permettrait d'identifier si certains mots ou expressions accrocheurs influencent davantage le nombre de vues, afin de pouvoir utiliser cela comme levier pour augmenter la visibilité d'une vidéo.
 
 ---
 
