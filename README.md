@@ -22,8 +22,6 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
   - [Projet 3 - Data cleansing - Python](#python2)
 * **SQL**
   - [Projet - Voting data analysis - SQL](#sql1)
-* **Tableau / Looker Studio**
-  - [In progress](#viz1)
 * [**Certificates**](#certificates)
 * [**Education**](#formation)
 * [**Work experience**](#experiences)
@@ -189,11 +187,6 @@ Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/
 
 > <img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/> - Les données montrent des disparités notables dans les taux d'abstention et de participation entre les circonscriptions, avec des variations significatives entre les régions métropolitaines et hors métropole. Certaines circonscriptions présentent des taux d'abstention et de votes blancs extrêmes, révélant des différences marquées dans l'engagement électoral à travers le pays.
 > 
----
-
-## Data visualisation (project in progress)
-<a id="viz1"></a>
-#### Project : Dynamic data visualisation report
 
 ---
 
