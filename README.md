@@ -79,6 +79,11 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 > <img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/> - Ce script traite et analyse les données du service de vélos en libre-service 'Vélib'' à Paris. Les données open-source en temps réel, couvrant les 1500 stations du réseau, permettent de suivre précisément les performances du service dans le cadre d'une évaluation continue de la qualité. L'analyse permet également une visualisation cartographique interactive de l'état des stations, facilitant l'identification des zones de congestion. Pour approfondir l'analyse, un script Google a été déployé pour automatiser l'extraction des données sur 24 heures, créant ainsi un historique des données. Ces informations ont ensuite été exploitées pour analyser les flux de vélos aux heures de pointe, matin et soir, afin d'identifier les tendances d'utilisation des stations.
 
+Examples of maps obtained (open the colab file to see all the maps obtained) : 
+Exemples de cartographies obtenues (ouvrir le fichier colab pour voir toutes les cartographies obtenues) : 
+<img src="Pictograms/Cartographie_var16-19h.png"/>
+<img src="Pictograms/Cartographie_stations_var.png"/>
+
 **Key insights**
 
 > <img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/>
