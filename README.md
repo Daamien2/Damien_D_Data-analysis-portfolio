@@ -19,7 +19,7 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 * **Python**
   - [Projet 1 - Analysis of the Paris self-service bicycle hire service - Python](#python0)
   - [Projet 2 - Transaction analysis - Python](#python1)
-  - [Projet 3 - Data cleansing - Python](#python2)
+  - [Projet 3 - Data cleansing of a video database - Python](#python2)
 * **SQL**
   - [Projet - Voting data analysis - SQL](#sql1)
 * [**Certificates**](#certificates)
@@ -173,11 +173,11 @@ Exemples de cartographies obtenues (ouvrir le fichier colab pour voir toutes les
 
 **Script** : [Project link](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/SQL/Votes/Elections_2022_Circos.sql)
 
-**Dataset** : 
-  - [resultats-par-niveau-burvot-t1-france-entiere.csv](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/SQL/Votes/resultats-par-niveau-burvot-t1-france-entiere.csv)
-  - [resultats-par-niveau-cirlg-t1-france-entiere.csv](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/SQL/Votes/resultats-par-niveau-cirlg-t1-france-entiere.csv)
-  - [circo_composition.csv](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/SQL/Votes/circo_composition.csv)
-
+**Dataset** : [HERE](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/tree/main/SQL/Votes)
+  - resultats-par-niveau-burvot-t1-france-entiere.csv
+  - resultats-par-niveau-cirlg-t1-france-entiere.csv
+  - circo_composition.csv
+    
 Source : [data.gouv.fr](https://www.data.gouv.fr/fr/pages/donnees-des-elections/)
 
 **Description** : 
