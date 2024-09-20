@@ -81,8 +81,8 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 Examples of maps obtained (open the colab file to see all the maps obtained) : 
 Exemples de cartographies obtenues (ouvrir le fichier colab pour voir toutes les cartographies obtenues) : 
-<img src="Pictograms/Cartographie_var16-19h.png"/>
-<img src="Pictograms/Cartographie_stations_var.png"/>
+<img src="Pictograms/Cartographie_var16-19h.png" alt="Var_16-19h" style="height: 250px; width: auto;"/>
+<img src="Pictograms/Cartographie_stations_var.png" alt="Var_stations" style="height: 260px; width: auto;"/>
 
 **Key insights**
 
