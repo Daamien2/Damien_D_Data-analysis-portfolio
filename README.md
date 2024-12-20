@@ -2,13 +2,13 @@
 
 ## About <img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/>
 
-Welcome, my name is Damien Delonglée. This data portfolio presents a series of data analysis projects using Python and/or SQL, illustrating skills in data extraction, cleansing and processing. Each project demonstrates the use of different techniques to manipulate complex datasets and extract actionable insights.
+Welcome, my name is Damien Delonglée. This data portfolio presents a series of data visualisation and analysis projects using Tableau, Python and SQL, illustrating skills in data extraction, cleansing and processing. Each project demonstrates the use of different techniques to manipulate complex datasets and extract actionable insights.
 
 You can also find my CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV/CV_Damien_Delonglee_UK.pdf)
 
 ## À propos  <img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/>
 
-Bienvenue, je m'appelle Damien Delonglée. Ce data portfolio présente une série de projets d’analyse de données réalisés avec Python et/ou SQL, illustrant des compétences en extraction, nettoyage et traitement de données. Chaque projet met en avant l'utilisation de diverses techniques pour manipuler des ensembles de données complexes et en extraire des insights exploitables.
+Bienvenue, je m'appelle Damien Delonglée. Ce data portfolio présente une série de projets d’analyse et de visualisation de données réalisés avec Tableau, Python et SQL, illustrant des compétences en extraction, nettoyage et traitement de données. Chaque projet met en avant l'utilisation de diverses techniques pour manipuler des ensembles de données complexes et en extraire des insights exploitables.
 
 Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV/CV_Damien_Delongl%C3%A9e_FR.pdf)
 
@@ -63,7 +63,7 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 **<img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/> Vue d'ensemble du service de vélos en libre-service de Paris**
 
-**Dashboard** : [Dashboard link](https://public.tableau.com/app/profile/damien.delongl.e/viz/Velib_data_viz/Dashboard2)
+**Dashboard** : <a href="https://public.tableau.com/app/profile/damien.delongl.e/viz/Velib_data_viz/Dashboard2" target="_blank">Dashboard link</a>
 
 **Skills** : 
 - Building interactive and dynamic dashboards.
