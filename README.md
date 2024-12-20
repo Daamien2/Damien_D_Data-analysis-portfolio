@@ -16,12 +16,14 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 ## Summary
 * [Technical skills](#techniques)
 * [Portfolio Projects](#ptfprojects)
+* **Data Viz - Tableau**
+  - [Project - Paris self-service bicycle hire service overview - Tableau](#tableau)
 * **Python**
-  - [Projet 1 - Analysis of the Paris self-service bicycle hire service - Python](#python0)
-  - [Projet 2 - Transaction analysis - Python](#python1)
-  - [Projet 3 - Data cleansing of a video database - Python](#python2)
+  - [Project 1 - Analysis of the Paris self-service bicycle hire service - Python](#python0)
+  - [Project 2 - Transaction analysis - Python](#python1)
+  - [Project 3 - Data cleansing of a video database - Python](#python2)
 * **SQL**
-  - [Projet - Voting data analysis - SQL](#sql1)
+  - [Project - Voting data analysis - SQL](#sql1)
 * [**Certificates**](#certificates)
 * [**Education**](#formation)
 * [**Work experience**](#experiences)
@@ -37,7 +39,7 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 - **Data Visualization** :
   - Power BI (interactive visualisations, dynamic dashboards, DAX functions): +++
-  - Tableau, Looker Studio : +
+  - Tableau, Looker Studio : ++
 
 - **Tools and Techniques** :
   - Multi-source data collection
@@ -52,6 +54,24 @@ Retrouvez également mon CV en [PDF](https://github.com/Daamien2/Damien_D_Data-a
 
 <img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/> - Dans cette section, je vais vous présenter des projets d'analyse de données en vous fournissant le script de travail, des recommandations tirées de ces analyses et en listant brièvement les compétences techniques utilisées pour résoudre les cas.
 
+---
+
+## Tableau
+<a id="tableau"></a>
+### Project
+**<img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/> Paris' self-service bicycle hire service overview**
+
+**<img src="Pictograms/FR.png" alt="FR" style="height: 15px; width: auto;"/> Vue d'ensemble du service de vélos en libre-service de Paris**
+
+**Dashboard** : [Dashboard link](https://public.tableau.com/app/profile/damien.delongl.e/viz/Velib_data_viz/Dashboard2)
+
+**Skills** : 
+- Building interactive and dynamic dashboards.
+- Data analysis and visualization for real-time KPI tracking.
+- Connecting and integrating multiple data sources.
+- Optimizing data workflows for efficient analysis.
+- Communicating insights through clear and visual presentations.
+  
 ---
 
 ## Python
