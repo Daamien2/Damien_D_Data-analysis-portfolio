@@ -2,7 +2,7 @@
 
 ## About <img src="Pictograms/GB.png" alt="GB" style="height: 15px; width: auto;"/>
 
-Welcome, my name is Damien Delonglée. This data portfolio presents a series of data visualisation and analysis projects using Tableau, Python and SQL, illustrating skills in data extraction, cleansing and processing. Each project demonstrates the use of different techniques to manipulate complex datasets and extract actionable insights.
+Welcome, my name is Damien Delonglée. This data portfolio showcases a series of data analysis and visualization projects created using Tableau, Python, and SQL, highlighting skills in data extraction, cleaning, and processing. Each project demonstrates the use of various techniques to handle complex datasets and extract actionable insights.
 
 You can also find my CV in [PDF](https://github.com/Daamien2/Damien_D_Data-analysis-portfolio/blob/main/CV/CV_Damien_Delonglee_UK.pdf)
 
